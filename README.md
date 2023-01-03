@@ -1,4 +1,4 @@
-# Feature Selection with Simulated Annealing & VNS
+# Feature Selection with Simulated Annealing & Variable Neighborhoob Search
 
 #### Coding from scratch for feature selection process with Simulated Annealing & VNS:
 
