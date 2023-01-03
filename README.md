@@ -1,6 +1,6 @@
 # Feature-Selection-with-Simulated Annealing
 
-#### Coding from scratch for feature selection process with Simulated Annealing:
+#### Coding from scratch for feature selection process with Simulated Annealing & VNS:
 
 Feature selection is an NP-hard problem (Peng, Albuquerque, Kimura, & Saavedra, 2021), and there is no algorithm that can be used to solve it in polynomial time. Given the number of variables, we can find the number of variables(n) to the power of 2 for our feature combinations.
 
