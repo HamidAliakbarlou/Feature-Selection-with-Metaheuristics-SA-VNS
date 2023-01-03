@@ -1,4 +1,4 @@
-# Feature-Selection-with-Simulated Annealing
+# Feature-Selection-with-Simulated Annealing & VNS
 
 #### Coding from scratch for feature selection process with Simulated Annealing & VNS:
 
